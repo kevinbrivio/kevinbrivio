@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**itzKv/itzKv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My Page!
 
-Here are some ideas to get you started:
+I’m a passionate Computer Science student dedicated to **Mobile Development**, with a particular focus on **iOS Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech's
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,swift)](https://skillicons.dev)
+
+# 📚 Projects
+I love working on innovative projects that not only enhance my skills but also contribute to the community. Feel free to explore my repositories to see what I’ve been working on!
+
+# 💬 Connect with Me
+
+I’m always open to collaboration and networking. If you’d like to connect, feel free to reach out via [Instagram](https://www.instagram.com/itskevinbrivio/)
+
+# 🌱 Currently Learning
+
+Swift UI and Combine
+Advanced iOS frameworks
+Design Patterns in Mobile Development
+Thank you for stopping by! Your feedback is always appreciated.
+
+Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.

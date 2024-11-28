@@ -18,7 +18,6 @@ I’m always open to collaboration and networking. If you’d like to connect, f
 
 Swift UI and Combine
 Advanced iOS frameworks
-Design Patterns in Mobile Development
 Thank you for stopping by! Your feedback is always appreciated.
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.

@@ -1,5 +1,5 @@
 
-# 👋 Welcome to My Page!
+# 👋 Welcome to my page!
 
 I’m a passionate Computer Science student dedicated to **Mobile Development**, with a particular focus on **iOS Development**.
 
@@ -16,8 +16,8 @@ I’m always open to collaboration and networking. If you’d like to connect, f
 
 # 🌱 Currently Learning
 
-Swift UI and Combine
-Advanced iOS frameworks
-Thank you for stopping by! Your feedback is always appreciated.
+- Swift UI and Combine
+- Advanced iOS frameworks
+
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.

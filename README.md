@@ -16,8 +16,9 @@ I’m always open to collaboration and networking. If you’d like to connect, f
 
 # 🌱 Currently Learning
 
-- Swift UI and Combine
+- Swift UI
 - Advanced iOS frameworks
+- React Native
 
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.

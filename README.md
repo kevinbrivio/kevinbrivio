@@ -12,11 +12,10 @@
 
 <h3 align="left">Github stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itzKv&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="kevin" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itzKv&theme=omni&hide_border=true" alt="kevin" /></p>
-
-<br></br>
-<br></br>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzKv&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="kevin" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzKv&theme=omni&hide_border=true" alt="kevin" />
+</div>
 
 <h3 align="left">Language and Tools</h3>
 
@@ -28,5 +27,4 @@
 <a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itskevinbrivio/" height="30" width="40" /></a>
 </p>
 
-
-Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.
+<p><strong>Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.</strong></p>

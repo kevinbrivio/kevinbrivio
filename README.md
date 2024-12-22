@@ -1,24 +1,33 @@
+<p align="center">
+  <img alt="Github Profile" src="https://github.com/user-attachments/assets/4ef0ec01-311f-4e7e-9c04-a46efe066f37" width=600 style="display: block; margin: 0 auto" />
+</p>
 
-# 👋 Welcome to my page!
+<h3 align="left">About me</h3>
 
-I’m a passionate Computer Science student dedicated to **Mobile Development**, with a particular focus on **iOS Development**.
+* 🎨 Mobile Programmer who loves React, React Native and Swift.
 
-# Tech's
+* 🔥 I really love the thrill of making what I want possible!
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,swift)](https://skillicons.dev)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dracula&?borderColor=green&animation=grow_out_in)
 
-# 📚 Projects
-I love working on innovative projects that not only enhance my skills but also contribute to the community. Feel free to explore my repositories to see what I’ve been working on!
+<h3 align="left">Github stats</h3>
 
-# 💬 Connect with Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itzKv&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="kevin" /></p>
+<p align="center"> </p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itzKv&theme=omni&hide_border=true" alt="kevin" /></p>
 
-I’m always open to collaboration and networking. If you’d like to connect, feel free to reach out via [Instagram](https://www.instagram.com/itskevinbrivio/)
+<br></br>
+<br></br>
 
-# 🌱 Currently Learning
+<h3 align="left">Language and Tools</h3>
 
-- Swift UI
-- Advanced iOS frameworks
-- React Native
+[![My Skills](https://skillicons.dev/icons?i=js,ts,swift,react,postgres,tailwind,vscode)](https://skillicons.dev)
+
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kevin-brivio/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhammedhshadir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itskevinbrivio/" height="30" width="40" /></a>
+</p>
 
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you want to connect.

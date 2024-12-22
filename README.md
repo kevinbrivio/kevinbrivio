@@ -4,7 +4,7 @@
 
 <h3 align="left">About me</h3>
 
-* 🎨 Mobile Programmer who loves React, React Native and Swift.
+* 🎨 Mobile Programmer who loves React Native and Swift.
 
 * 🔥 I really love the thrill of making what I want possible!
 

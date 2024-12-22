@@ -13,7 +13,6 @@
 <h3 align="left">Github stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itzKv&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="kevin" /></p>
-<p align="center"> </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=itzKv&theme=omni&hide_border=true" alt="kevin" /></p>
 
 <br></br>

@@ -4,7 +4,7 @@
 
 <h3 align="left">About me</h3>
 
-* ✊🏼 Currently doing an internship
+* ✊🏼 Currently learning Flutter
   
 * 🎨 Mobile Programmer who loves React Native and Swift.
 

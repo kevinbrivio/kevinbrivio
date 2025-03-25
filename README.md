@@ -21,7 +21,7 @@
 
 <h3 align="left">Language and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,swift,react,postgres,tailwind,js,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,swift,react,flutter,dart,postgres,tailwind,js,vscode)](https://skillicons.dev)
 
 
 <h3 align="left">Connect with me:</h3>
